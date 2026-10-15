@@ -1,0 +1,5 @@
+# Exclure les jeux de données
+dataset.csv
+dataset_cleaned.xlsx
+*.csv
+*.xlsx
